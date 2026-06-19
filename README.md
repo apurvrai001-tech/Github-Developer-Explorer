@@ -1,2 +1,2 @@
-# Github-Explorer
+# Github-Developer-Explorer
 Semester Second project
